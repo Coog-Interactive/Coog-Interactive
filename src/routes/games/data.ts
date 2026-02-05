@@ -79,4 +79,9 @@ export const games = [
         name: "Axolotl Adventure",
         href: "https://worlds.viverse.com/vs4jzMX",
     },
+    {
+        header: "https://img.itch.zone/aW1nLzE4OTU0NTg4LnBuZw==/315x250%23c/lgBFau.png",
+        name: "Forged in Steam",
+        href: "https://abysssf.itch.io/forged-in-steam",
+    },
 ]
