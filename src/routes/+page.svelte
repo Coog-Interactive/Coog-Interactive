@@ -1,7 +1,7 @@
 <script lang="ts">
-    import mirrorsEdge1 from '$lib/assets/game-me.jpg';
-    import mirrorsEdge2 from '$lib/assets/game-me2.jpg';
-    import guiltyGear from '$lib/assets/header-bg.jpg';
+    import section1 from '$lib/assets/section1.png';
+    import section2 from '$lib/assets/section2.png';
+    import section3 from '$lib/assets/section3.png';
     import profitPlayground from '$lib/assets/profit-playground.png'
 
     function mail() {
@@ -11,7 +11,7 @@
 
 <div class="row">
     <div class="picture-collumn">
-        <img src={ mirrorsEdge1 } alt="Mirror's Edge by EA DICE" class="left-image"/>
+        <img src={ section1 } alt="Luminescence by RadiantStudios" class="left-image"/>
     </div>
     <section class="info-section">
         <h1>GAMES GAMES GAMES.</h1>
@@ -35,7 +35,7 @@
 </div>
 <div class="reverse row">
     <div class="picture-collumn">
-        <img src={ mirrorsEdge2 } alt="Mirror's Edge by EA DICE" class="right-image"/>
+        <img src={ section2 } alt="The Tides of Andunië by No Spoon Studio" class="right-image"/>
     </div>
     <section class="info-section">
         <h1>BRING YOUR GAME TO LIFE</h1>
@@ -49,7 +49,7 @@
 </div>
 <div class="row">
     <div class="picture-collumn">
-        <img src={ guiltyGear } alt="Guilty Gear -STRIVE- by ArcSystemWorks" class="left-image"/>
+        <img src={ section3 } alt="Axolotl Adventure by Katelyn Shapiro and Garrett Ward" class="left-image"/>
     </div>
     <section class="info-section">
         <h1>CLUB OFFICERS</h1>
@@ -61,7 +61,7 @@
 </div>
 <div class="reverse row">
     <div class="picture-collumn">
-        <img src={ profitPlayground } alt="TT Profit Playground by unknown" class="right-image" style="object-position: 10%;"/>
+        <img src={ profitPlayground } alt="TT Profit Playground by Unknown" class="right-image" style="object-position: 10%;"/>
     </div>
     <section class="info-section">
         <h1>SUPPORT US</h1>
