@@ -31,7 +31,7 @@
             <li>Learn how to utilize industry tools.</li>
         </ul>
         <form action="https://api.cooginteractive.com/payment" method="POST">
-            <button>PURCHASE ($10)</button>
+            <button>PURCHASE ($20)</button>
         </form>
     </section>
 </div>
