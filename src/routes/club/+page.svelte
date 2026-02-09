@@ -30,7 +30,9 @@
             <li>Publish games to Steam and Mobile Appstores.</li>
             <li>Learn how to utilize industry tools.</li>
         </ul>
-        <button>NOT AVAILABLE YET :(</button>
+        <form action="https://api.cooginteractive.com/payment" method="POST">
+            <button>PURCHASE ($10)</button>
+        </form>
     </section>
 </div>
 
@@ -59,7 +61,7 @@
         border: 5px solid var(--cougar-red);
         border-radius: 50px;
 
-        height: 500px;
+        min-height: 500px;
         width: 50vw;
     }
     ul {
